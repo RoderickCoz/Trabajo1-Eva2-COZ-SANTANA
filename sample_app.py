@@ -1,4 +1,4 @@
-# Add to this file for the sample app lab
+# Add to this file for the sample app lab - for test 2
 from flask import Flask
 from flask import request
 from flask import render_template
